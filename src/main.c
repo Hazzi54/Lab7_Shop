@@ -23,6 +23,6 @@ int main() {
 
     pthread_cancel(loader);
 
-    destruct();
+    //destruct();
     return 0;
 }
